@@ -101,10 +101,9 @@ LumenSys/
 
 | Nome | Função | GitHub |
 |------|--------|--------|
-| [Nome] | Scrum Master / Full Stack | [@usuario1] |
-| [Nome] | Frontend Developer | [@usuario2] |
-| [Nome] | Backend Developer | [@usuario3] |
-| [Nome] | DevOps / QA | [@usuario4] |
+| [ Franciane Ramos Franco ] | Scrum Master / Full Stack | [ @FrancianeRamos ] |
+| [ Rodrigo Yoshida Lombezzi ] | Scrum Master / Full Stack | [ @rodrigo-lombezzi ] |
+
 
 ## 📖 Documentação
 
@@ -154,14 +153,6 @@ O projeto está configurado para deploy automático através do GitHub Actions:
 - **Staging**: Deploy automático na branch `staging`
 - **Produção**: Deploy manual via tags de release
 
-## 🤝 Como Contribuir
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -174,10 +165,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙏 Agradecimentos
 
-- Orientador: [Nome do Professor]
-- Instituição: [Nome da Universidade]
-- Empresa Parceira: [Nome da Empresa] (se aplicável)
-- Comunidade Open Source
+- Orientador: [Jefferson Ribeiro  Antônio Passerini]
+- Instituição: [Fatec Jales - Profº José Camargo]
 
 ---
 
