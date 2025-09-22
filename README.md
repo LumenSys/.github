@@ -125,8 +125,8 @@ LumenSys/
 
 | Nome | Função | GitHub |
 |------|--------|--------|
-| [ Franciane Ramos Franco ] | Scrum Master / Full Stack | [ @FrancianeRamos ] |
-| [ Rodrigo Yoshida Lombezzi ] | Scrum Master / Full Stack | [ @rodrigo-lombezzi ] |
+| Franciane Ramos Franco | Scrum Master / Full Stack | @FrancianeRamos |
+| Rodrigo Yoshida Lombezzi | Scrum Master / Full Stack | @rodrigo-lombezzi |
 
 
 ## 📖 Documentação
@@ -189,8 +189,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙏 Agradecimentos
 
-- Orientador: [Jefferson Ribeiro  Antônio Passerini]
-- Instituição: [Fatec Jales - Profº José Camargo]
+- Orientador: Jefferson Ribeiro  Antônio Passerini
+- Instituição: Fatec Jales - Profº José Camargo
 
 ---
 
