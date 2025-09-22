@@ -4,6 +4,30 @@
 
 Este repositório contém a organização e documentação do projeto de graduação desenvolvido pela equipe LumenSys. O projeto foca no desenvolvimento de soluções inovadoras utilizando tecnologias modernas para resolver problemas do mundo real.
 
+## 🎗️ Propósito do Projeto
+
+O **LumenSys** é um sistema de gerenciamento de planos funerários desenvolvido para facilitar a administração e organização dos serviços funerários de maneira eficiente e moderna. Nossa solução foi criada para atender às necessidades específicas do setor funerário, oferecendo uma plataforma completa e integrada.
+
+### 🎯 Objetivo do Projeto
+Modernizar e digitalizar a gestão de planos funerários, proporcionando maior eficiência operacional, melhor experiência ao cliente e controle administrativo aprimorado para empresas do setor funerário.
+
+### 🏢 Como Auxiliamos Empresas do Setor Funerário
+- **Gestão Centralizada**: Unificação de todos os processos em uma única plataforma
+- **Controle de Contratos**: Administração completa de planos e contratos funerários
+- **Gestão de Clientes**: Cadastro e acompanhamento detalhado de beneficiários
+- **Automação de Processos**: Redução de trabalho manual e minimização de erros
+- **Relatórios Gerenciais**: Dashboards e relatórios para tomada de decisões estratégicas
+- **Compliance**: Atendimento às regulamentações do setor
+
+### ✨ Principais Benefícios e Diferenciais
+- **Interface Intuitiva**: Design moderno e fácil de usar, reduzindo a curva de aprendizado
+- **Escalabilidade**: Arquitetura preparada para crescimento da empresa
+- **Segurança**: Proteção de dados sensíveis com as melhores práticas de segurança
+- **Mobilidade**: Acesso via web responsivo para trabalho em qualquer dispositivo
+- **Integração**: Compatibilidade com sistemas existentes e APIs para terceiros
+- **Suporte Especializado**: Equipe técnica com conhecimento específico do setor funerário
+- **Customização**: Adaptação às necessidades específicas de cada empresa
+
 ## 🎯 Objetivos
 
 ### Objetivo Geral
