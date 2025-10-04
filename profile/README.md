@@ -181,12 +181,6 @@ O projeto está configurado para deploy automático através do GitHub Actions:
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 📞 Contato
-
-- **Email**: [email@lumensys.com]
-- **LinkedIn**: [LumenSys Team]
-- **Website**: [https://lumensys.com]
-
 ## 🙏 Agradecimentos
 
 - Orientador: Jefferson Antônio Ribeiro Passerini
