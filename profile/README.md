@@ -50,17 +50,13 @@ Desenvolver uma solução tecnológica completa que demonstre a aplicação prá
 - **Vite** - Build tool e servidor de desenvolvimento
 
 ### Backend
-- **Node.js** - Runtime JavaScript
-- **Express.js** - Framework web para Node.js
 - **PostgreSQL** - Banco de dados relacional
-- **Redis** - Cache em memória
+- **.NET 8** -  plataforma de desenvolvimento C#
 - **Docker** - Containerização
 
 ### DevOps e Ferramentas
 - **GitHub Actions** - CI/CD
 - **Docker Compose** - Orquestração de containers
-- **Jest** - Framework de testes
-- **ESLint/Prettier** - Linting e formatação de código
 
 ## 📁 Estrutura do Projeto
 
@@ -77,7 +73,6 @@ LumenSys/
 ## 🛠️ Instalação e Configuração
 
 ### Pré-requisitos
-- Node.js (v18 ou superior)
 - Docker e Docker Compose
 - PostgreSQL
 - Git
@@ -95,10 +90,9 @@ LumenSys/
    npm install
    ```
 
-3. **Configure as variáveis de ambiente:**
+3. **Iniciar projeto:**
    ```bash
-   cp .env.example .env
-   # Edite o arquivo .env com suas configurações
+   npm start
    ```
 
 4. **Execute com Docker:**
@@ -125,8 +119,8 @@ LumenSys/
 
 | Nome | Função | GitHub |
 |------|--------|--------|
-| Franciane Ramos Franco | Scrum Master / Full Stack | @FrancianeRamos |
-| Rodrigo Yoshida Lombezzi | Scrum Master / Full Stack | @rodrigo-lombezzi |
+| Franciane Ramos Franco | Full Stack | @FrancianeRamos |
+| Rodrigo Yoshida Lombezzi | Full Stack | @rodrigo-lombezzi |
 
 
 ## 📖 Documentação
@@ -155,27 +149,6 @@ npm run test:coverage
 - **Testes de Integração** - Cypress para fluxos completos
 - **Testes de API** - Supertest para endpoints
 - **Testes de Performance** - Artillery para carga
-
-## 📊 Resultados e Métricas
-
-### Métricas de Qualidade
-- Cobertura de testes: >80%
-- Performance Score: >90%
-- Accessibility Score: >95%
-- SEO Score: >90%
-
-### Benchmarks de Performance
-- Tempo de carregamento inicial: <2s
-- Time to Interactive: <3s
-- Throughput da API: >1000 req/s
-
-## 🚀 Deploy e Produção
-
-O projeto está configurado para deploy automático através do GitHub Actions:
-
-- **Desenvolvimento**: Deploy automático na branch `develop`
-- **Staging**: Deploy automático na branch `staging`
-- **Produção**: Deploy manual via tags de release
 
 ## 📄 Licença
 
