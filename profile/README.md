@@ -51,7 +51,7 @@ Desenvolver uma solução tecnológica completa que demonstre a aplicação prá
 
 ### Backend
 - **PostgreSQL** - Banco de dados relacional
-- **.NET 8** -  plataforma de desenvolvimento C#
+- **.NET 8** -  Plataforma de desenvolvimento C#
 - **Docker** - Containerização
 
 ### DevOps e Ferramentas
