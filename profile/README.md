@@ -130,20 +130,6 @@ LumenSys/
 - [Arquitetura do Sistema](./docs/architecture.md)
 - [Manual do Usuário](./docs/user-manual.md)
 
-## 🧪 Testes
-
-### Executar Testes
-```bash
-# Testes unitários
-npm run test
-
-# Testes de integração
-npm run test:integration
-
-# Cobertura de testes
-npm run test:coverage
-```
-
 ### Estratégia de Testes
 - **Testes Unitários** - Jest para componentes e funções
 - **Testes de Integração** - Cypress para fluxos completos
