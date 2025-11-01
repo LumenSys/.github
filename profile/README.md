@@ -142,7 +142,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙏 Agradecimentos
 
-- Orientador: Jefferson Antônio Ribeiro Passerini
+- Orientador: Jefferson Antonio Ribeiro Passerini
 - Instituição: Fatec Jales - Profº José Camargo
 
 ---
